@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name molex)(type Legacy)(uri ${KIPRJMOD}/molex.lib)(options "")(descr ""))
+  (lib (name INA300AIDSQR)(type Legacy)(uri ${KIPRJMOD}/INA300AIDSQR.lib)(options "")(descr ""))
 )
